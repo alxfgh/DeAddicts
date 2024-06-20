@@ -1,4 +1,4 @@
 # DeAddicts
 
-To login:
+To login on the polaris benchmark profile:
 > polaris login
